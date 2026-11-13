@@ -204,4 +204,4 @@ This repository serves as the official landing page for Need for Speed Hot Pursu
 **Get the most recent version of Need for Speed Hot Pursuit Remastered today!**
 
 ---
-**Last updated:** 2026-11-13 11:42:58 UTC
+**Last updated:** 2026-11-13 18:55:49 UTC
